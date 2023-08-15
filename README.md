@@ -23,7 +23,7 @@ You can find at **train.py** and the trained model is at **trained model.pkl**
 |Mean Squared Error|30753049.7240442|
 
 ### Residual Plot
-
+<img src="residualplot.jpg" width="950" height="650">
 
 ### Testing
 You can find at **test.py**.
