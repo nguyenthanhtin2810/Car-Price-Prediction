@@ -18,12 +18,15 @@ You can find at **train.py** and the trained model is at **trained model.pkl**
 ### Metrics
 |Metric|Value|
 |-----------|:-----------:|
-|R2 score|0.7910417291075155|
-|Mean Absolute Error|3221.1570738029195|
-|Mean Squared Error|26780758.8839717|
+|R2 score|0.7256599936071768|
+|Mean Absolute Error|3610.191721953441|
+|Mean Squared Error|30753049.7240442|
 
 ### Residual Plot
 <img src="residualplot.jpg" width="950" height="650">
+
+### Testing
+You can find at **test.py**.
 
 ## Requirements
 * python
