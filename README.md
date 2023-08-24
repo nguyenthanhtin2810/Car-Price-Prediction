@@ -25,7 +25,7 @@ You can find at **train.py** and the trained model is at **trained model.pkl**
 ### Residual Plot
 <img src="residualplot.jpg" width="950" height="650">
 
-### Testing
+## Testing
 You can find at **test.py**.
 
 ## Requirements
