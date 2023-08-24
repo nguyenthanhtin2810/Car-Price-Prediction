@@ -26,7 +26,7 @@ You can find at **train.py** and the trained model is at **trained model.pkl**
 <img src="residualplot.jpg" width="950" height="650">
 
 ## Testing
-You can try this model at at **test.py**.
+You can try this model at **test.py**.
 
 ## Requirements
 * python
